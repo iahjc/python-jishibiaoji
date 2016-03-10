@@ -1,0 +1,8 @@
+1:open the dos window
+
+2:enter the current document  
+
+3:input command "python simple_markup.py <test_input.txt> test_outpu.html"
+
+
+4:tap the enter,execute command 
